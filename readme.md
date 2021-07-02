@@ -7,10 +7,10 @@ Get your images compiled in a pdf
 
 
 ### Steps to make pdf:
-<b>Step 1</b> - Run main.py
-<b>Step 2</b> - Enter the path for the folder which contains all the images(folder may contain things other than images also, that would be taken care of by the program)
-<b>Step 3</b> - Enter the path for the folder where you want the output pdf to be present
-<b>Step 4</b> - Enter name you want to give to your pdf file
+<b>Step 1</b> - Run main.py <br>
+<b>Step 2</b> - Enter the path for the folder which contains all the images(folder may contain things other than images also, that would be taken care of by the program) <br>
+<b>Step 3</b> - Enter the path for the folder where you want the output pdf to be present <br>
+<b>Step 4</b> - Enter name you want to give to your pdf file <br>
 
 
 ### Program has been tested for -
